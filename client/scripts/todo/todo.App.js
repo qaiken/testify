@@ -122,7 +122,7 @@ todo.App.prototype.remove = function(id) {
 
 		item.el.parentNode.removeChild(item.el);
 	}
-	
+
 };
 
 todo.App.prototype.addListeners = function() {
